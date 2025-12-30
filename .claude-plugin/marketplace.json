@@ -1,0 +1,19 @@
+{
+  "name": "ngage-marketplace",
+  "metadata": {
+    "description": "ngage's personal Claude plugins",
+    "version": "0.1.0"
+  },
+  "owner": {
+    "name": "Nathan Gage",
+    "email": "contract@nathangage.co"
+  },
+  "plugins": [
+    {
+      "name": "react",
+      "source": "./plugins/react",
+      "description": "ngage's collection of helpful React related skills",
+      "version": "0.1.0"
+    }
+  ]
+}
