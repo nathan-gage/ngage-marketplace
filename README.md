@@ -21,7 +21,7 @@ Or if using a full URL:
 Once the marketplace is added, install plugins with:
 
 ```bash
-/plugin install react@ngage-marketplace
+/plugin install <plugin>@ngage-marketplace
 ```
 
 ## Available Plugins
